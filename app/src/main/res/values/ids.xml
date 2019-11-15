@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dayRecordText" type="id" />
+    <item name="stepText" type="id" />
+    <item name="timeText" type="id"/>
+    <item name="speedText" type="id" />
+    <item name="distanceText" type="id" />
+    <item name="orientationText" type="id" />
+    <item name="achievedText" type="id" />
+    <item name="startButton" type="id" />
+    <item name="resetButton" type="id" />
+    <item name="settingsButton" type="id" />
+</resources>
